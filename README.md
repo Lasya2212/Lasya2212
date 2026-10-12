@@ -61,18 +61,16 @@ Currently exploring → Cloud | Embedded | AI/ML | IoT | Software Engineering
       <img src="https://img.shields.io/badge/EC2-0A192F?style=for-the-badge&logo=amazonec2&logoColor=FF9900" alt="EC2" />
       <img src="https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-0A192F?style=for-the-badge&logo=express&logoColor=00F0FF" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Serverless_Architecture-0A192F?style=for-the-badge&logo=serverless&logoColor=FD5750" alt="Serverless Architecture" />
       <img src="https://img.shields.io/badge/Ubuntu-0A192F?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Linux-0A192F?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
       <img src="https://img.shields.io/badge/Apache-0A192F?style=for-the-badge&logo=apache&logoColor=D22128" alt="Apache" />
     </td>
   </tr>
   <tr>
     <td width="24%" valign="top"><strong>03 // EMBEDDED & IoT</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/ESP32-0A192F?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
-      <img src="https://img.shields.io/badge/ARM7-0A192F?style=for-the-badge&logo=arm&logoColor=0091BD" alt="ARM7" />
-      <img src="https://img.shields.io/badge/LPC2148-0A192F?style=for-the-badge&logo=nxp&logoColor=38BDF8" alt="LPC2148" />
-      <img src="https://img.shields.io/badge/Tiva_C_/_TM4C123-0A192F?style=for-the-badge&logo=texas-instruments&logoColor=CC0000" alt="Tiva C / TM4C123" />
       <img src="https://img.shields.io/badge/Embedded_Systems-0A192F?style=for-the-badge&logo=cplusplus&logoColor=00F0FF" alt="Embedded Systems" />
       <img src="https://img.shields.io/badge/GPIO-0A192F?style=for-the-badge&logo=raspberrypi&logoColor=00F0FF" alt="GPIO" />
       <img src="https://img.shields.io/badge/I2C-0A192F?style=for-the-badge&logo=microchip&logoColor=00F0FF" alt="I2C" />
@@ -82,13 +80,12 @@ Currently exploring → Cloud | Embedded | AI/ML | IoT | Software Engineering
     </td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><strong>04 // AI / DATA</strong></td>
+    <td width="24%" valign="top"><strong>04 // DATA SCIENCE</strong></td>
     <td>
       <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy" />
       <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
       <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Matplotlib" />
       <img src="https://img.shields.io/badge/Scikit--Learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/Jupyter_Notebook-0A192F?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
       <img src="https://img.shields.io/badge/MATLAB-0A192F?style=for-the-badge&logo=mathworks&logoColor=0076A8" alt="MATLAB" />
       <img src="https://img.shields.io/badge/Machine_Learning-0A192F?style=for-the-badge&logo=databricks&logoColor=00F0FF" alt="Machine Learning" />
       <img src="https://img.shields.io/badge/Data_Analysis-0A192F?style=for-the-badge&logo=googleanalytics&logoColor=00F0FF" alt="Data Analysis" />
@@ -102,15 +99,12 @@ Currently exploring → Cloud | Embedded | AI/ML | IoT | Software Engineering
     <td>
       <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Linux-0A192F?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
       <img src="https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
       <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
       <img src="https://img.shields.io/badge/Postman-0A192F?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
       <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Spyder-0A192F?style=for-the-badge&logo=python&logoColor=FF0000" alt="Spyder" />
       <img src="https://img.shields.io/badge/Jupyter_Notebook-0A192F?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
-      <img src="https://img.shields.io/badge/MATLAB-0A192F?style=for-the-badge&logo=mathworks&logoColor=0076A8" alt="MATLAB" />
     </td>
   </tr>
 </table>
